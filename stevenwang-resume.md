@@ -1,8 +1,8 @@
 # Steven S. Wang
 
-Seattle, WA
-Email: <stevenwangbe@gmail.com>
-LinkedIn: <https://www.linkedin.com/in/steven-wang-166b35176/>
+Seattle, WA\
+Email: <stevenwangbe@gmail.com>\
+LinkedIn: <https://www.linkedin.com/in/steven-wang-166b35176/>\
 GitHub: <https://github.com/shipitsteven>
 
 ## Summary
