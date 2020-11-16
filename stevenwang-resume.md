@@ -16,14 +16,14 @@ GitHub: <https://github.com/shipitsteven>
 
 ## Education
 
-**North Seattle College**
-Expected finish date: June 2022
-*Application Development B.A.S*
-GPA: 4.0
+**North Seattle College**\
+Expected finish date: June 2022\
+*Application Development B.A.S*\
+GPA: 4.0\
 
-**University of California, Santa Barbara**
-June 2016
-*Biological Sciences B.S*
+**University of California, Santa Barbara**\
+June 2016\
+*Biological Sciences B.S*\
 
 ## Projects
 
@@ -36,7 +36,7 @@ June 2016
 
 ### Research Scientist/Engineer Assistant
 
-University of Washington / NOAA Alaska Fisheries Science Center
+University of Washington / NOAA Alaska Fisheries Science Center\
 *October 2019 - Present*
 
 - Analyze stomach content of fish species
@@ -47,7 +47,7 @@ University of Washington / NOAA Alaska Fisheries Science Center
 
 ### Fishery Biologist I
 
-Pacific States Marine Fisheries Commission
+Pacific States Marine Fisheries Commission\
 *June 2019 - September 2019*
 
 - Participate in the field party of bottom trawl survey along Gulf of Alaska
@@ -57,7 +57,7 @@ Pacific States Marine Fisheries Commission
 
 ### Fisheries Observer
 
-Saltwater Inc. / Alaskan Observers Inc. / TechSea International Inc.
+Saltwater Inc. / Alaskan Observers Inc. / TechSea International Inc.\
 *December 2016 – June 2019*
 
 - Work cooperatively with fishing crew onboard vessels in Alaska, Washington, and Hawaii
