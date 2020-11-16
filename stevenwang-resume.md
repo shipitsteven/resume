@@ -19,11 +19,11 @@ GitHub: <https://github.com/shipitsteven>
 **North Seattle College**\
 Expected finish date: June 2022\
 *Application Development B.A.S*\
-GPA: 4.0\
+GPA: 4.0
 
 **University of California, Santa Barbara**\
 June 2016\
-*Biological Sciences B.S*\
+*Biological Sciences B.S*
 
 ## Projects
 
