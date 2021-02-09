@@ -1,10 +1,10 @@
 # Steven S. Wang's Resume
 
-*Seattle, WA*  
+*Seattle, WA*
 
 Email: <stevenwangbe@gmail.com>  
-LinkedIn: linkedin.com/in/steven-s-wang  
-GitHub: github.com/shipitsteven
+LinkedIn: [linkedin.com/in/steven-s-wang](https://www.linkedin.com/in/steven-s-wang/)  
+GitHub: [github.com/shipitsteven](https://github.com/shipitsteven)
 
 ## Summary
 
