@@ -8,7 +8,7 @@ GitHub: [github.com/shipitsteven](https://github.com/shipitsteven)
 
 ## Summary
 
-- Software Engineering with background in scientific data production and analysis.  
+- Software Engineer with background in scientific data production and analysis.  
 - Experienced with object-oriented programming in Java; versed in modern web technologies and frameworks; working knowledge in SQL and NoSQL databases; familiar with CI/CD and QC practices.  
 - Quick to learn new libraries and frameworks. Excellent written and verbal communication. Tier 1
 federal security clearance.
@@ -16,7 +16,7 @@ federal security clearance.
 ## Technical Skills
 
 - **Languages:** `Java`, `JavaScript`, `Python`, `SQL`, `YAML`, `PHP`, `HTML`, `CSS`
-- **Tools:** `Git`, `Node.Js`, `React`, `MySQL`, `MongoDB`, `JUnit`, `Unix CLI`, `Jupyter`, `Markdown`,
+- **Tools:** `Git`, `Node.Js`, `React`, `MySQL`, `MongoDB`, `Bootstrap`, `Semantic UI`, `JUnit`, `Unix CLI`, `Jupyter`, `Markdown`,
 and various libraries for Java, JavaScript, and Python
 
 ## Experience
