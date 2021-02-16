@@ -9,7 +9,8 @@ GitHub: [github.com/shipitsteven](https://github.com/shipitsteven)
 ## Summary
 
 - Software Engineer with background in scientific data production and analysis.  
-- Experienced with object-oriented programming in Java; versed in modern web technologies and frameworks; working knowledge in SQL and NoSQL databases; familiar with CI/CD and QC practices.  
+- Experienced with object-oriented programming in Java; versed in modern web technologies and
+frameworks; working knowledge in SQL and NoSQL databases; practitioner of version control (git) and Agile methodologies; familiar with CI/CD and QC practices.  
 - Quick to learn new libraries and frameworks. Excellent written and verbal communication. Tier 1
 federal security clearance.
 
@@ -26,11 +27,11 @@ and various libraries for Java, JavaScript, and Python
 University of Washington @ NOAA Alaska Fisheries Science Center  
 _October 2019 - Present_
 
-- Analyze fish stomach content to generate data for ecosystem studies that may ultimately impact
-fishing quota
-- Write `SQL` queries to generate data reports & track production metrics
 - Update old web applications with current technology (`React`, `Bootstrap`, `Node.js`, etc.) to integrate
 with the new NOAA fisheries website
+- Write `SQL` queries to generate data reports & track production metrics
+- Analyze fish stomach content to generate data for ecosystem studies that may ultimately impact
+fishing quota
 
 ### Fishery Biologist I
 
@@ -48,15 +49,22 @@ systems
 Saltwater Inc. / Alaskan Observers Inc. / TechSea International Inc.  
 _December 2016 – June 2019_
 
-- Worked cooperatively with fishing crew onboard vessels in Alaska, Washington, and Hawaii
-- Collected fisheries dependent data and reported to NOAA fisheries
+- Worked cooperatively with crew onboard fishing vessels in Alaska, Washington, and Hawaii to collect fisheries dependent data and reported to NOAA fisheries
 
 ## Education
 
 North Seattle College  
 _Bachelor of Applied Science - **Application Development**_  
 Expected finish date: June 2022  
-GPA: 4.0
+GPA: 4.0  
+Courses:
+> Data Structure & Algorithm, Web application Development, Database Technologies, and Project Management
+
+University of Washington  
+*Non-matriculated Student*  
+GPA: 3.3  
+Course:
+> CSE 154 Web Programming
 
 University of California, Santa Barbara  
 _Bachelor of Science - **Biological Sciences**_  
