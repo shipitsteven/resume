@@ -8,17 +8,20 @@ GitHub: [github.com/shipitsteven](https://github.com/shipitsteven)
 
 ## Summary
 
-- Software Engineer with background in scientific data production and analysis.  
-- Experienced with object-oriented programming in Java; versed in modern web technologies and
-frameworks; working knowledge in SQL and NoSQL databases; practitioner of version control (git) and Agile methodologies; familiar with CI/CD and QC practices.  
-- Quick to learn new libraries and frameworks. Excellent written and verbal communication. Tier 1
-federal security clearance.
+- I am a biologist looking to transition into the software industry  
+- I am currently a junior at a local college studying Application Development
+- Looking for a junior level position or internship in Software Engineering
 
-## Technical Skills
+## Projects
 
-- **Languages:** `Java`, `JavaScript`, `Python`, `SQL`, `YAML`, `PHP`, `HTML`, `CSS`
-- **Tools:** `Git`, `Node.Js`, `React`, `MySQL`, `MongoDB`, `Bootstrap`, `Semantic UI`, `JUnit`, `Unix CLI`, `Jupyter`, `Markdown`,
-and various libraries for Java, JavaScript, and Python
+### Hot Dog Cart Web App
+
+Live: [https://hotdog-webapp.netlify.app](https://hotdog-webapp.netlify.app)  
+Repo: [https://github.com/shipitsteven/hot-dog-web-app](https://github.com/shipitsteven/hot-dog-web-app)  
+
+- Full stack web app that emulates a hot dog cart business site. It has three distinct views (customer, vendor, admin) with unique functionalities for each type of users
+- Built with React, Node.js (Express), MySQL, Semantic UI, Google Maps, Places and Geocoding API. Uses Formik and Yup to handle front-end form validation
+- RESTful API with full API documentation & example code. Data modeling with ERD and SQL scripts.
 
 ## Experience
 
@@ -27,11 +30,12 @@ and various libraries for Java, JavaScript, and Python
 University of Washington @ NOAA Alaska Fisheries Science Center  
 _October 2019 - Present_
 
-- Update old web applications with current technology (`React`, `Bootstrap`, `Node.js`, etc.) to integrate
-with the new NOAA fisheries website
-- Write `SQL` queries to generate data reports & track production metrics
-- Analyze fish stomach content to generate data for ecosystem studies that may ultimately impact
-fishing quota
+- Built a new version of an old web app to integrate with the new NOAA fisheries website. Pending approval to
+migrate to public server. [`Bootstrap`, `JavaScript`, `PHP`, `MySQL`]
+- Generate data reports to track production metrics; simplified the process for quarterly performance reports
+and lightened the load for our DBA. [`SQL`, `Oracle RDBMS`, `Microsoft Access`]
+- Analyze fish stomach content to generate data for ecosystem studies that may ultimately influence
+commercial fishing regulations. Validate and reconcile data to ensure data integrity.
 
 ### Fishery Biologist I
 
@@ -69,6 +73,12 @@ Course:
 University of California, Santa Barbara  
 _Bachelor of Science - **Biological Sciences**_  
 Graduated: June 2016
+
+## Technical Skills
+
+- **Languages:** `Java`, `JavaScript`, `Python`, `SQL`, `R`, `YAML`, `PHP`, `HTML`, `CSS`
+- **Tools:** `React`, `Node.Js`, `Express`, `Git`, `MySQL`, `MongoDB`, `Bootstrap`, `Semantic UI`,
+`JUnit`, `Unix CLI`, `Markdown`, `Jupyter Notebook`, `R Studio`
 
 ## Foreign Language
 
